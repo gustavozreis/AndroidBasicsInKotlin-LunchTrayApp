@@ -1,0 +1,7 @@
+#Tue Jan 11 11:53:02 BRT 2022
+base.1=C\:\\Users\\gzrei\\Desktop\\PROGRAMACAO\\APRENDENDO\\KOTLIN BASICS\\AppLunchTray\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\gzrei\\Desktop\\PROGRAMACAO\\APRENDENDO\\KOTLIN BASICS\\AppLunchTray\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

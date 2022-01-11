@@ -26,6 +26,9 @@
             type="com.example.lunchtray.model.OrderViewModel" />
 
         <!-- TODO: Add the data binding variable for the EntreeMenuFragment -->
+        <variable
+            name="entreeMenuFragment"
+            type="com.example.lunchtray.ui.order.EntreeMenuFragment" />
     </data>
 
 
@@ -55,6 +58,7 @@
                     android:layout_height="wrap_content"
                     android:textAppearance="?attr/textAppearanceBody1"
                     android:text='@{viewModel.menuItems["cauliflower"].name}'
+                    android:onClick="@{ () -> viewModel.entree.setValue(viewModel.menuItems[])}"
                     tools:text="Entree 1" />
 
                 <TextView
