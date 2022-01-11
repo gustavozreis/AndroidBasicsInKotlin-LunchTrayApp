@@ -149,6 +149,8 @@ class OrderViewModel : ViewModel() {
         }
 
         // TODO: calculate the tax and resulting total
+        calculateTaxAndTotal()
+
     }
 
     /**
@@ -156,7 +158,9 @@ class OrderViewModel : ViewModel() {
      */
     fun calculateTaxAndTotal() {
         // TODO: set _tax.value based on the subtotal and the tax rate.
+         _tax.value = _subtotal.value?.times(taxRate)
         // TODO: set the total based on the subtotal and _tax.value.
+        _total.value = _subtotal.value?.plus(_tax.value!!.toDouble())
     }
 
     /**
@@ -164,5 +168,11 @@ class OrderViewModel : ViewModel() {
      */
     fun resetOrder() {
         // TODO: Reset all values associated with an order
+        _entree.value = null
+        _side.value = null
+        _accompaniment.value = null
+        _subtotal.value = 0.0
+        _total.value = 0.0
+        _tax.value = 0.0
     }
 }
