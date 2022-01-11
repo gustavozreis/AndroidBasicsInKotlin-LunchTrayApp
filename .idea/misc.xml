@@ -4,10 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
-        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_accompaniment_menu.xml" value="0.33177083333333335" />
-        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_checkout.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_accompaniment_menu.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_checkout.xml" value="0.21508379888268156" />
         <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_entree_menu.xml" value="0.22" />
-        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_side_menu.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_side_menu.xml" value="0.21508379888268156" />
         <entry key="..\:/Users/gzrei/Desktop/PROGRAMACAO/APRENDENDO/KOTLIN BASICS/AppLunchTray/app/src/main/res/layout/fragment_start_order.xml" value="0.33177083333333335" />
       </map>
     </option>

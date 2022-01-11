@@ -21,8 +21,8 @@ com/example/lunchtray/databinding/FragmentSideMenuBindingImpl.java
  com.example.lunchtray.databinding.FragmentSideMenuBindingImpl
 com/example/lunchtray/databinding/FragmentSideMenuBinding.java
  com.example.lunchtray.databinding.FragmentSideMenuBinding
-com/example/lunchtray/databinding/FragmentEntreeMenuBindingImpl.java
- com.example.lunchtray.databinding.FragmentEntreeMenuBindingImpl
+com/example/lunchtray/databinding/FragmentAccompanimentMenuBinding.java
+ com.example.lunchtray.databinding.FragmentAccompanimentMenuBinding
 com/example/lunchtray/databinding/FragmentCheckoutBinding.java
  com.example.lunchtray.databinding.FragmentCheckoutBinding
 com/example/lunchtray/databinding/FragmentCheckoutBindingImpl.java
@@ -31,8 +31,8 @@ com/example/lunchtray/databinding/FragmentEntreeMenuBinding.java
  com.example.lunchtray.databinding.FragmentEntreeMenuBinding
 com/example/lunchtray/databinding/FragmentAccompanimentMenuBindingImpl.java
  com.example.lunchtray.databinding.FragmentAccompanimentMenuBindingImpl
-com/example/lunchtray/databinding/FragmentAccompanimentMenuBinding.java
- com.example.lunchtray.databinding.FragmentAccompanimentMenuBinding
+com/example/lunchtray/databinding/FragmentEntreeMenuBindingImpl.java
+ com.example.lunchtray.databinding.FragmentEntreeMenuBindingImpl
 com/example/lunchtray/DataBinderMapperImpl.java
  com.example.lunchtray.DataBinderMapperImpl
  com.example.lunchtray.DataBinderMapperImpl$InnerBrLookup
